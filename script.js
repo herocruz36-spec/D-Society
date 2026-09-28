@@ -53,7 +53,7 @@ document.addEventListener("keydown", (event) => {
 
 // 3) Ask D' button → Google Form
 // IMPORTANT: Replace this URL with your actual Google Form link.
-const GOOGLE_FORM_URL = "https://forms.gle/iuq5CZSVG2pzFZ5a7";
+const GOOGLE_FORM_URL = "https://forms.gle/C2jQdxv65QrvztJT7";
 
 document.getElementById("askButton").addEventListener("click", () => {
   window.open(GOOGLE_FORM_URL, "_blank", "noopener,noreferrer");
